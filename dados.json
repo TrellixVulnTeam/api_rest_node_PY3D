@@ -1,0 +1,31 @@
+[
+    {
+        "titulo": "Tom Clancys Rainbow Six Siege",
+        "preco": 59.99,
+        "ano": 2015
+    },
+    
+    {
+        "titulo": "Fobia - St. Dinfna Hotel on Steam",
+        "preco": 57.99,
+        "ano": 2022
+    },
+
+    {
+        "titulo": "Valorant",
+        "preco": 0,
+        "ano": 2020
+    },
+
+    {
+        "titulo": "Minecraft",
+        "preco": 79.87,
+        "ano": 2011
+    },
+
+    {
+        "titulo": "FIFA 22",
+        "preco": 299,
+        "ano": 2021
+    }
+]
